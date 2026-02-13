@@ -67,6 +67,8 @@ npm run preview
 
 ## Links
 
+- https://youtu.be/DcNX0ZN2khI
+
 - [Shelby](https://shelby.xyz/)
 - [Shelby Docs](https://docs.shelby.xyz/)
 - [Aptos Explorer (ShelbyNet)](https://explorer.aptoslabs.com/?network=shelbynet)
