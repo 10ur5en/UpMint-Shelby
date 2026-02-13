@@ -1,8 +1,6 @@
 # UpMint Shelby
 
-## Demo
-
-[Watch demo video](https://youtu.be/DcNX0ZN2khI)
+[![Demo](https://img.youtube.com/vi/DcNX0ZN2khI/0.jpg)](https://youtube.com/watch?v=DcNX0ZN2khI)
 
 Upload files to the Shelby network and mint them as NFTs on Aptos (ShelbyNet). Built with Shelby Protocol for decentralized storage and Petra wallet for authentication.
 
