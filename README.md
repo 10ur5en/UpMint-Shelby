@@ -1,5 +1,9 @@
 # UpMint Shelby
 
+## Demo
+
+[Watch demo video](https://youtu.be/DcNX0ZN2khI)
+
 Upload files to the Shelby network and mint them as NFTs on Aptos (ShelbyNet). Built with Shelby Protocol for decentralized storage and Petra wallet for authentication.
 
 ![UpMint Shelby](https://img.shields.io/badge/Shelby-NFT-blue) ![Aptos](https://img.shields.io/badge/Aptos-ShelbyNet-purple)
@@ -66,8 +70,6 @@ npm run preview
 - Proxy is used in dev for CORS; production should use proper backend or Shelby/Aptos endpoints
 
 ## Links
-
-- https://youtu.be/DcNX0ZN2khI
 
 - [Shelby](https://shelby.xyz/)
 - [Shelby Docs](https://docs.shelby.xyz/)
